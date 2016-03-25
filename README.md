@@ -1,4 +1,4 @@
-# ApiPersonajesPublic v0.0.1
+# ApiPersonajes v0.0.1
 API crear tus Personajes favoritos y puntualos con amigos. Toda la data y manipulación create, edit, delete, update. Creado en Nodejs, Express, MondoDB, socket.io. 
 App creado usando el API, creado personajes y puntuandolos en tiempo real con JS, AJAX.
 
